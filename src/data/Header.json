@@ -1,0 +1,41 @@
+{
+  "logo": {
+    "href": "#",
+    "image": "/logo.svg",
+    "alt": "Anikesh Kumar home",
+    "width": 40,
+    "height": 40
+  },
+  "navLogo": {
+    "href": "#",
+    "image": "/logo.svg",
+    "alt": "Anikesh Kumar home",
+    "width": 40,
+    "height": 40
+  },
+  "menuIcon": {
+    "image": "/menu.svg",
+    "alt": "menu icon",
+    "width": 17,
+    "height": 17
+  },
+  "login": {
+    "text": "Resume"
+  },
+  "studioLocationTitle": "Current Location",
+  "studioAddress": "Dwarka, New Delhi, India",
+  "urgentText": "Call me at",
+  "phone": {
+    "label": "+91 8744003734",
+    "href": "tel:+918744003734"
+  },
+  "navLinks": [
+    { "label": "Home", "href": "#home" },
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Skills", "href": "#skills" },
+    { "label": "About", "href": "#about" },
+    { "label": "Experience", "href": "#experience" },
+    { "label": "Gallery", "href": "#gallery" },
+    { "label": "Contact", "href": "#contact" }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "sectionId": "contact",
+  "subtitle": "Get In Touch",
+  "title": "Let's build something impactful together. Reach out anytime.",
+  "buttonLink": "mailto:anikeshuzumaki@gmail.com",
+  "topImages": [
+    {
+      "src": "/image-2.jpg",
+      "alt": "Anikesh Kumar work",
+      "className": "abs-img abs-img-1",
+      "width": 159,
+      "height": 176
+    },
+    {
+      "src": "/image-6.jpg",
+      "alt": "Anikesh Kumar work",
+      "className": "abs-img abs-img-2",
+      "width": 265,
+      "height": 275
+    },
+    {
+      "src": "/image-10.jpg",
+      "alt": "Anikesh Kumar work",
+      "className": "abs-img abs-img-3",
+      "width": 303,
+      "height": 272
+    },
+    {
+      "src": "/image-14.jpg",
+      "alt": "Anikesh Kumar work",
+      "className": "abs-img abs-img-4",
+      "width": 175,
+      "height": 175
+    }
+  ],
+  "shapeImage": {
+    "src": "/footer-shape.svg",
+    "alt": "",
+    "width": 185,
+    "height": 134
+  },
+  "logo": {
+    "href": "#",
+    "src": "/logo.svg",
+    "alt": "Anikesh Kumar home",
+    "width": 40,
+    "height": 40
+  },
+  "socialLinks": [
+    { "label": "LinkedIn", "href": "https://www.linkedin.com/in/anikesh-kumar" },
+    { "label": "GitHub", "href": "https://github.com/uzumaki-ak" },
+    { "label": "Email", "href": "mailto:anikeshuzumaki@gmail.com" }
+  ],
+  "copyrightText": "©",
+  "copyrightOwner": "Anikesh Kumar",
+  "copyrightEndText": "All Rights Reserved.",
+  "footerBackground": {
+    "src": "/image-15.jpg",
+    "alt": "Anikesh Kumar background",
+    "width": 1920,
+    "height": 1135
+  },
+  "backToTop": {
+    "href": "#top",
+    "ariaLabel": "back to top",
+    "defaultText": "0%"
+  }
+}

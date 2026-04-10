@@ -1,0 +1,42 @@
+{
+  "sectionId": "experience",
+  "subtitle": "Professional Experience",
+  "services": [
+    {
+      "title": "Hack4Brahma Community - Full Stack Developer Intern",
+      "description": "Built a digital badge generator for 500+ users with camera upload and real-time preview, reducing processing time by 80%.",
+      "image": "/image-4.jpg",
+      "alt": "Hack4Brahma internship",
+      "width": 340,
+      "height": 380,
+      "link": "#"
+    },
+    {
+      "title": "BizByte Startup - Frontend Developer (Freelance)",
+      "description": "Developed responsive Next.js apps for 1000+ concurrent users and integrated 15+ APIs to improve load speed by 40%.",
+      "image": "/image-5.jpg",
+      "alt": "BizByte startup work",
+      "width": 340,
+      "height": 380,
+      "link": "#"
+    },
+    {
+      "title": "MERI College of Engineering and Technology",
+      "description": "Bachelor of Technology in Computer Science and Engineering (Sep 2023 - Sep 2027), New Delhi.",
+      "image": "/image-6.jpg",
+      "alt": "Education at MERI College",
+      "width": 340,
+      "height": 380,
+      "link": "#"
+    },
+    {
+      "title": "Hackathon Achievements",
+      "description": "Participated in 30+ hackathons with 20+ finalist positions and earned 5 internship offers through technical demos.",
+      "image": "/image-7.jpg",
+      "alt": "Hackathon achievements",
+      "width": 340,
+      "height": 380,
+      "link": "#"
+    }
+  ]
+}

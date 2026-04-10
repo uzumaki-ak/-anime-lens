@@ -1,0 +1,35 @@
+{
+  "sectionId": "about",
+  "titleLines": ["Hi, I'm", "Anikesh Kumar"],
+  "description": "I am a Computer Science undergraduate and full stack developer focused on scalable web apps, AI-powered features, and high-performance user experiences.",
+  "signature": {
+    "src": "/image-2.jpg",
+    "alt": "Anikesh Kumar",
+    "width": 151,
+    "height": 92
+  },
+  "banner": {
+    "src": "/image-3.jpg",
+    "alt": "Anikesh Kumar profile",
+    "width": 512,
+    "height": 684
+  },
+  "shape1": {
+    "src": "/about-shape-1.png",
+    "alt": "",
+    "width": 178,
+    "height": 178
+  },
+  "shape2": {
+    "src": "/about-shape-2.svg",
+    "alt": "",
+    "width": 659,
+    "height": 653
+  },
+  "shape3": {
+    "src": "/about-shape-3.svg",
+    "alt": "",
+    "width": 239,
+    "height": 232
+  }
+}

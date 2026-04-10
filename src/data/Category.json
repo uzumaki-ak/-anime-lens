@@ -1,0 +1,101 @@
+{
+  "sectionId": "skills",
+  "items": [
+    {
+      "title": "JavaScript",
+      "image": "/image-5.jpg",
+      "alt": "JavaScript",
+      "width": 600,
+      "height": 690,
+      "link": "#"
+    },
+    {
+      "title": "TypeScript",
+      "image": "/image-6.jpg",
+      "alt": "TypeScript",
+      "width": 600,
+      "height": 690,
+      "link": "#"
+    },
+    {
+      "title": "Python",
+      "image": "/image-7.jpg",
+      "alt": "Python",
+      "width": 600,
+      "height": 690,
+      "link": "#"
+    },
+    {
+      "title": "C and C++",
+      "image": "/image-8.jpg",
+      "alt": "C and C++",
+      "width": 600,
+      "height": 690,
+      "link": "#"
+    },
+    {
+      "title": "Next.js",
+      "image": "/image-9.jpg",
+      "alt": "Next.js",
+      "width": 600,
+      "height": 690,
+      "link": "#"
+    },
+    {
+      "title": "React",
+      "image": "/image-10.jpg",
+      "alt": "React",
+      "width": 600,
+      "height": 690,
+      "link": "#"
+    },
+    {
+      "title": "Node and Express",
+      "image": "/image-11.jpg",
+      "alt": "Node and Express",
+      "width": 600,
+      "height": 690,
+      "link": "#"
+    },
+    {
+      "title": "PostgreSQL",
+      "image": "/image-12.jpg",
+      "alt": "PostgreSQL",
+      "width": 600,
+      "height": 690,
+      "link": "#"
+    },
+    {
+      "title": "MongoDB",
+      "image": "/image-13.jpg",
+      "alt": "MongoDB",
+      "width": 600,
+      "height": 690,
+      "link": "#"
+    },
+    {
+      "title": "Supabase",
+      "image": "/image-14.jpg",
+      "alt": "Supabase",
+      "width": 600,
+      "height": 690,
+      "link": "#"
+    },
+    {
+      "title": "Docker and GCP",
+      "image": "/image-15.jpg",
+      "alt": "Docker and GCP",
+      "width": 600,
+      "height": 690,
+      "link": "#"
+    },
+    {
+      "title": "Git and GitHub",
+      "image": "/image-1.jpg",
+      "alt": "Git and GitHub",
+      "width": 600,
+      "height": 690,
+      "link": "#"
+    }
+  ]
+}

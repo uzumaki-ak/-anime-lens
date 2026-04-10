@@ -1,0 +1,100 @@
+{
+  "sectionId": "gallery",
+  "scrollDownLink": "#experience",
+  "shapeImage": {
+    "src": "/gallery-shape.svg",
+    "alt": "",
+    "width": 220,
+    "height": 78
+  },
+  "items": [
+    {
+      "cards": [
+        {
+          "title": "Ask My Repo",
+          "tag": "Git Assistant, RAG",
+          "image": "/image-12.jpg",
+          "alt": "Ask My Repo",
+          "width": 450,
+          "height": 625,
+          "link": "#"
+        },
+        {
+          "title": "Kaamly",
+          "tag": "Task Automation, AI",
+          "image": "/image-13.jpg",
+          "alt": "Kaamly",
+          "width": 450,
+          "height": 625,
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "title": "CMS Platform",
+          "tag": "MERN Stack",
+          "image": "/image-14.jpg",
+          "alt": "CMS platform",
+          "width": 450,
+          "height": 625,
+          "link": "#"
+        },
+        {
+          "title": "Badge Generator",
+          "tag": "Realtime Preview, Download",
+          "image": "/image-15.jpg",
+          "alt": "Badge generator",
+          "width": 450,
+          "height": 625,
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "title": "API Integrations",
+          "tag": "15+ REST APIs",
+          "image": "/image-1.jpg",
+          "alt": "API integrations",
+          "width": 450,
+          "height": 625,
+          "link": "#"
+        },
+        {
+          "title": "Scalable Frontend",
+          "tag": "1000+ Concurrent Users",
+          "image": "/image-2.jpg",
+          "alt": "Scalable frontend",
+          "width": 450,
+          "height": 625,
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "title": "Hackathon Journey",
+          "tag": "30+ Participations",
+          "image": "/image-3.jpg",
+          "alt": "Hackathon participation",
+          "width": 450,
+          "height": 625,
+          "link": "#"
+        },
+        {
+          "title": "Team Collaboration",
+          "tag": "GitHub, Reviews, Delivery",
+          "image": "/image-4.jpg",
+          "alt": "Team collaboration",
+          "width": 450,
+          "height": 625,
+          "link": "#"
+        }
+      ]
+    }
+  ]
+}

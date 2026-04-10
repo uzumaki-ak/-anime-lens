@@ -1,0 +1,58 @@
+{
+  "sectionId": "projects",
+  "sectionTitle": "Technical Projects.",
+  "shapeImage": {
+    "src": "/portfolio-shape.svg",
+    "alt": "",
+    "width": 286,
+    "height": 232
+  },
+  "columns": [
+    {
+      "showTitle": true,
+      "projects": [
+        {
+          "title": "Ask My Repo",
+          "tag": "Next.js, TypeScript, RAG, Gemini API",
+          "image": "/image-8.jpg",
+          "alt": "Ask My Repo project",
+          "width": 700,
+          "height": 605,
+          "link": "#"
+        },
+        {
+          "title": "Kaamly Task Automation Platform",
+          "tag": "Next.js, Python, Supabase, Twilio, Resend",
+          "image": "/image-9.jpg",
+          "alt": "Kaamly platform",
+          "width": 700,
+          "height": 1091,
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "showTitle": false,
+      "projects": [
+        {
+          "title": "Content Management System",
+          "tag": "MongoDB, React, Node.js, Express",
+          "image": "/image-10.jpg",
+          "alt": "CMS platform",
+          "width": 700,
+          "height": 1000,
+          "link": "#"
+        },
+        {
+          "title": "Digital Badge Generator",
+          "tag": "TailwindCSS, Framer Motion, html2canvas",
+          "image": "/image-11.jpg",
+          "alt": "Digital badge generator",
+          "width": 700,
+          "height": 850,
+          "link": "#"
+        }
+      ]
+    }
+  ]
+}
