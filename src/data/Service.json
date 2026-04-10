@@ -1,39 +1,39 @@
 {
-  "sectionId": "experience",
-  "subtitle": "Professional Experience",
+  "sectionId": "services",
+  "subtitle": "Photoshoot Services",
   "services": [
     {
-      "title": "Hack4Brahma Community - Full Stack Developer Intern",
-      "description": "Built a digital badge generator for 500+ users with camera upload and real-time preview, reducing processing time by 80%.",
+      "title": "Cosplay Character Shoot",
+      "description": "Character-first photography with pose direction, prop framing, and dramatic mood.",
       "image": "/image-4.jpg",
-      "alt": "Hack4Brahma internship",
+      "alt": "Cosplay character shoot",
       "width": 340,
       "height": 380,
       "link": "#"
     },
     {
-      "title": "BizByte Startup - Frontend Developer (Freelance)",
-      "description": "Developed responsive Next.js apps for 1000+ concurrent users and integrated 15+ APIs to improve load speed by 40%.",
+      "title": "Studio Anime Portraits",
+      "description": "Controlled indoor setups with anime-inspired lighting and bold color grading.",
       "image": "/image-5.jpg",
-      "alt": "BizByte startup work",
+      "alt": "Studio anime portraits",
       "width": 340,
       "height": 380,
       "link": "#"
     },
     {
-      "title": "MERI College of Engineering and Technology",
-      "description": "Bachelor of Technology in Computer Science and Engineering (Sep 2023 - Sep 2027), New Delhi.",
+      "title": "Neon Street Shoots",
+      "description": "Night street sessions with motion, reflections, and cinematic city energy.",
       "image": "/image-6.jpg",
-      "alt": "Education at MERI College",
+      "alt": "Neon street shoot",
       "width": 340,
       "height": 380,
       "link": "#"
     },
     {
-      "title": "Hackathon Achievements",
-      "description": "Participated in 30+ hackathons with 20+ finalist positions and earned 5 internship offers through technical demos.",
+      "title": "Event and Convention Coverage",
+      "description": "Fast-paced coverage for conventions, stage moments, and high-energy candid frames.",
       "image": "/image-7.jpg",
-      "alt": "Hackathon achievements",
+      "alt": "Convention coverage",
       "width": 340,
       "height": 380,
       "link": "#"

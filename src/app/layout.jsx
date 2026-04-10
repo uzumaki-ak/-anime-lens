@@ -14,9 +14,9 @@ const gorditaFont = Inter({
 });
 
 export const metadata = {
-  title: 'Anikesh Kumar - Full Stack Developer Portfolio',
+  title: 'Anime Lens - Photoshoot Site',
   description:
-    'Portfolio of Anikesh Kumar, a full stack developer building scalable web apps with Next.js, TypeScript, AI integrations, and modern cloud tooling.',
+    'Anime Lens is an anime-themed photoshoot website with cinematic galleries, cosplay-inspired visual styles, and story-driven photography sections.',
 };
 
 export default function RootLayout({ children }) {

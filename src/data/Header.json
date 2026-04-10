@@ -2,14 +2,14 @@
   "logo": {
     "href": "#",
     "image": "/logo.svg",
-    "alt": "Anikesh Kumar home",
+    "alt": "Anime Lens home",
     "width": 40,
     "height": 40
   },
   "navLogo": {
     "href": "#",
     "image": "/logo.svg",
-    "alt": "Anikesh Kumar home",
+    "alt": "Anime Lens home",
     "width": 40,
     "height": 40
   },
@@ -20,22 +20,22 @@
     "height": 17
   },
   "login": {
-    "text": "Resume"
+    "text": "Book Now"
   },
-  "studioLocationTitle": "Current Location",
-  "studioAddress": "Dwarka, New Delhi, India",
-  "urgentText": "Call me at",
+  "studioLocationTitle": "Anime Lens Studio",
+  "studioAddress": "Creative Photoshoot Space",
+  "urgentText": "Bookings:",
   "phone": {
-    "label": "+91 8744003734",
-    "href": "tel:+918744003734"
+    "label": "Use contact section",
+    "href": "#contact"
   },
   "navLinks": [
     { "label": "Home", "href": "#home" },
-    { "label": "Projects", "href": "#projects" },
-    { "label": "Skills", "href": "#skills" },
-    { "label": "About", "href": "#about" },
-    { "label": "Experience", "href": "#experience" },
     { "label": "Gallery", "href": "#gallery" },
+    { "label": "Styles", "href": "#styles" },
+    { "label": "About", "href": "#about" },
+    { "label": "Services", "href": "#services" },
+    { "label": "Stories", "href": "#stories" },
     { "label": "Contact", "href": "#contact" }
   ]
 }

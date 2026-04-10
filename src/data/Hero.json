@@ -2,7 +2,7 @@
   "sectionId": "home",
   "bannerImage": {
     "src": "/image-1.jpg",
-    "alt": "Anikesh Kumar",
+    "alt": "Anime photoshoot hero",
     "width": 322,
     "height": 322
   },
@@ -12,7 +12,7 @@
     "width": 211,
     "height": 189
   },
-  "title": "Anikesh Kumar",
-  "animatedWords": ["Full Stack Developer", "Frontend Engineer", "Hackathon Finalist", "AI Builder"],
-  "subtitle": "B.Tech CSE (2023 - 2027) | Dwarka, New Delhi"
+  "title": "Anime Lens",
+  "animatedWords": ["Cosplay Shoots", "Anime Vibes", "Cinematic Frames", "Manga Mood"],
+  "subtitle": "From pose to post, every frame feels like an opening scene."
 }

@@ -1,16 +1,16 @@
 {
   "sectionId": "about",
-  "titleLines": ["Hi, I'm", "Anikesh Kumar"],
-  "description": "I am a Computer Science undergraduate and full stack developer focused on scalable web apps, AI-powered features, and high-performance user experiences.",
+  "titleLines": ["Konnichiwa,", "Welcome to Anime Lens"],
+  "description": "\"A camera is like chakra: focus it right and your story explodes.\" We craft anime-inspired photoshoots with bold poses, dramatic lighting, and scene-style edits.",
   "signature": {
     "src": "/image-2.jpg",
-    "alt": "Anikesh Kumar",
+    "alt": "Anime Lens style sample",
     "width": 151,
     "height": 92
   },
   "banner": {
     "src": "/image-3.jpg",
-    "alt": "Anikesh Kumar profile",
+    "alt": "Anime style photoshoot",
     "width": 512,
     "height": 684
   },

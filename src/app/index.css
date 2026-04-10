@@ -328,9 +328,8 @@ body.active {
 }
 
 .header.active {
-  background-color: var(--eerie-black);
-  padding-block: 12px;
-  box-shadow: var(--shadow);
+  background-color: transparent;
+  box-shadow: none;
 }
 
 .header .container,

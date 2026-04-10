@@ -1,98 +1,98 @@
 {
-  "sectionId": "skills",
+  "sectionId": "styles",
   "items": [
     {
-      "title": "JavaScript",
+      "title": "Shonen Action",
       "image": "/image-5.jpg",
-      "alt": "JavaScript",
+      "alt": "Shonen action style",
       "width": 600,
       "height": 690,
       "link": "#"
     },
     {
-      "title": "TypeScript",
+      "title": "Shojo Dream",
       "image": "/image-6.jpg",
-      "alt": "TypeScript",
+      "alt": "Shojo dream style",
       "width": 600,
       "height": 690,
       "link": "#"
     },
     {
-      "title": "Python",
+      "title": "Cyberpunk Neon",
       "image": "/image-7.jpg",
-      "alt": "Python",
+      "alt": "Cyberpunk neon style",
       "width": 600,
       "height": 690,
       "link": "#"
     },
     {
-      "title": "C and C++",
+      "title": "Samurai Mood",
       "image": "/image-8.jpg",
-      "alt": "C and C++",
+      "alt": "Samurai mood style",
       "width": 600,
       "height": 690,
       "link": "#"
     },
     {
-      "title": "Next.js",
+      "title": "Fantasy Forest",
       "image": "/image-9.jpg",
-      "alt": "Next.js",
+      "alt": "Fantasy forest style",
       "width": 600,
       "height": 690,
       "link": "#"
     },
     {
-      "title": "React",
+      "title": "Dark Academia",
       "image": "/image-10.jpg",
-      "alt": "React",
+      "alt": "Dark academia style",
       "width": 600,
       "height": 690,
       "link": "#"
     },
     {
-      "title": "Node and Express",
+      "title": "Street Ninja",
       "image": "/image-11.jpg",
-      "alt": "Node and Express",
+      "alt": "Street ninja style",
       "width": 600,
       "height": 690,
       "link": "#"
     },
     {
-      "title": "PostgreSQL",
+      "title": "Mecha Glow",
       "image": "/image-12.jpg",
-      "alt": "PostgreSQL",
+      "alt": "Mecha glow style",
       "width": 600,
       "height": 690,
       "link": "#"
     },
     {
-      "title": "MongoDB",
+      "title": "Con Stage",
       "image": "/image-13.jpg",
-      "alt": "MongoDB",
+      "alt": "Convention stage style",
       "width": 600,
       "height": 690,
       "link": "#"
     },
     {
-      "title": "Supabase",
+      "title": "Idol Pop",
       "image": "/image-14.jpg",
-      "alt": "Supabase",
+      "alt": "Idol pop style",
       "width": 600,
       "height": 690,
       "link": "#"
     },
     {
-      "title": "Docker and GCP",
+      "title": "Retro Manga",
       "image": "/image-15.jpg",
-      "alt": "Docker and GCP",
+      "alt": "Retro manga style",
       "width": 600,
       "height": 690,
       "link": "#"
     },
     {
-      "title": "Git and GitHub",
+      "title": "Monochrome Drama",
       "image": "/image-1.jpg",
-      "alt": "Git and GitHub",
+      "alt": "Monochrome drama style",
       "width": 600,
       "height": 690,
       "link": "#"

@@ -1,6 +1,6 @@
 {
   "sectionId": "gallery",
-  "scrollDownLink": "#experience",
+  "scrollDownLink": "#services",
   "shapeImage": {
     "src": "/gallery-shape.svg",
     "alt": "",
@@ -11,19 +11,19 @@
     {
       "cards": [
         {
-          "title": "Ask My Repo",
-          "tag": "Git Assistant, RAG",
+          "title": "Blade Pose Session",
+          "tag": "Action, Cosplay",
           "image": "/image-12.jpg",
-          "alt": "Ask My Repo",
+          "alt": "Blade pose",
           "width": 450,
           "height": 625,
           "link": "#"
         },
         {
-          "title": "Kaamly",
-          "tag": "Task Automation, AI",
+          "title": "Moonlight Costume Set",
+          "tag": "Night, Character",
           "image": "/image-13.jpg",
-          "alt": "Kaamly",
+          "alt": "Moonlight costume",
           "width": 450,
           "height": 625,
           "link": "#"
@@ -33,19 +33,19 @@
     {
       "cards": [
         {
-          "title": "CMS Platform",
-          "tag": "MERN Stack",
+          "title": "Manga Cover Look",
+          "tag": "Portrait, Editorial",
           "image": "/image-14.jpg",
-          "alt": "CMS platform",
+          "alt": "Manga cover style",
           "width": 450,
           "height": 625,
           "link": "#"
         },
         {
-          "title": "Badge Generator",
-          "tag": "Realtime Preview, Download",
+          "title": "Final Boss Entrance",
+          "tag": "Drama, Story Shot",
           "image": "/image-15.jpg",
-          "alt": "Badge generator",
+          "alt": "Final boss scene",
           "width": 450,
           "height": 625,
           "link": "#"
@@ -55,19 +55,19 @@
     {
       "cards": [
         {
-          "title": "API Integrations",
-          "tag": "15+ REST APIs",
+          "title": "Opening Scene Frame",
+          "tag": "Cinematic, Motion",
           "image": "/image-1.jpg",
-          "alt": "API integrations",
+          "alt": "Opening scene",
           "width": 450,
           "height": 625,
           "link": "#"
         },
         {
-          "title": "Scalable Frontend",
-          "tag": "1000+ Concurrent Users",
+          "title": "Power-Up Portrait",
+          "tag": "Studio, Lighting",
           "image": "/image-2.jpg",
-          "alt": "Scalable frontend",
+          "alt": "Power up portrait",
           "width": 450,
           "height": 625,
           "link": "#"
@@ -77,19 +77,19 @@
     {
       "cards": [
         {
-          "title": "Hackathon Journey",
-          "tag": "30+ Participations",
+          "title": "Rooftop Rival Shot",
+          "tag": "Urban, Duel Mood",
           "image": "/image-3.jpg",
-          "alt": "Hackathon participation",
+          "alt": "Rooftop rival shot",
           "width": 450,
           "height": 625,
           "link": "#"
         },
         {
-          "title": "Team Collaboration",
-          "tag": "GitHub, Reviews, Delivery",
+          "title": "Calm Before Storm",
+          "tag": "Soft, Atmospheric",
           "image": "/image-4.jpg",
-          "alt": "Team collaboration",
+          "alt": "Calm scene",
           "width": 450,
           "height": 625,
           "link": "#"

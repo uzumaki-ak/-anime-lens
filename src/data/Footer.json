@@ -1,33 +1,33 @@
 {
   "sectionId": "contact",
-  "subtitle": "Get In Touch",
-  "title": "Let's build something impactful together. Reach out anytime.",
-  "buttonLink": "mailto:anikeshuzumaki@gmail.com",
+  "subtitle": "Let's Shoot",
+  "title": "Ready for your anime-style photoshoot? Let's create your scene.",
+  "buttonLink": "#contact",
   "topImages": [
     {
       "src": "/image-2.jpg",
-      "alt": "Anikesh Kumar work",
+      "alt": "Anime Lens work",
       "className": "abs-img abs-img-1",
       "width": 159,
       "height": 176
     },
     {
       "src": "/image-6.jpg",
-      "alt": "Anikesh Kumar work",
+      "alt": "Anime Lens work",
       "className": "abs-img abs-img-2",
       "width": 265,
       "height": 275
     },
     {
       "src": "/image-10.jpg",
-      "alt": "Anikesh Kumar work",
+      "alt": "Anime Lens work",
       "className": "abs-img abs-img-3",
       "width": 303,
       "height": 272
     },
     {
       "src": "/image-14.jpg",
-      "alt": "Anikesh Kumar work",
+      "alt": "Anime Lens work",
       "className": "abs-img abs-img-4",
       "width": 175,
       "height": 175
@@ -42,21 +42,21 @@
   "logo": {
     "href": "#",
     "src": "/logo.svg",
-    "alt": "Anikesh Kumar home",
+    "alt": "Anime Lens home",
     "width": 40,
     "height": 40
   },
   "socialLinks": [
-    { "label": "LinkedIn", "href": "https://www.linkedin.com/in/anikesh-kumar" },
-    { "label": "GitHub", "href": "https://github.com/uzumaki-ak" },
-    { "label": "Email", "href": "mailto:anikeshuzumaki@gmail.com" }
+    { "label": "Insta", "href": "#" },
+    { "label": "YouTube", "href": "#" },
+    { "label": "X", "href": "#" }
   ],
   "copyrightText": "©",
-  "copyrightOwner": "Anikesh Kumar",
+  "copyrightOwner": "Anime Lens",
   "copyrightEndText": "All Rights Reserved.",
   "footerBackground": {
     "src": "/image-15.jpg",
-    "alt": "Anikesh Kumar background",
+    "alt": "Anime Lens background",
     "width": 1920,
     "height": 1135
   },
